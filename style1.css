@@ -1,0 +1,16 @@
+*main{
+    display:flex;
+}
+
+#main{
+    background-image: url("./index1/IMG_7522.JPG");
+}
+
+#main ul li{
+display: inline;
+color:red;
+background-color: yellow;
+justify-content: space-around;
+justify-content: center;
+background-image: url("./index1/IMG_7522.JPG");
+}
